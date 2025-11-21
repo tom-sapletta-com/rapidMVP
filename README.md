@@ -1,9 +1,7 @@
 # rapidMVP
 RapidMVP to platforma do AUTOMATYCZNEGO tworzenia aplikacji biznesowych Zamiast pisać kod od zera dla każdego klienta,
 
-**RapidMVP to Twoja dźwignia** - zamiast tradować czas za pieniądze, masz system który pracuje dla Ciebie. To różnica między freelancerem a właścicielem firmy software'owej.
-
-🎯 **Czym jest RapidMVP i jaka jest jego wartość biznesowa?**
+**RapidMVP to Twoja dźwignia**, system który pracuje dla Ciebie, 🎯 jaka jest jego wartość biznesowa?**
 
 ### **RapidMVP to platforma do AUTOMATYCZNEGO tworzenia aplikacji biznesowych**
 
